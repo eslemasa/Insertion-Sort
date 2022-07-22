@@ -1,0 +1,6 @@
+#1
+CREATE TABLE employee
+	id INTEGER NOT null,
+	name VARCHAR(50) NOT null,
+	birthday DATE ,
+	email VARCHAR(100)
